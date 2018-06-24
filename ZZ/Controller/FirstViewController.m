@@ -24,4 +24,8 @@
     NSLog(@"11111");
 }
 
+- (void)test3
+{
+    NSLog(@"3333");
+}
 @end
