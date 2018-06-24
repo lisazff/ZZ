@@ -16,6 +16,7 @@
 		0E2D8C0A20DF7D6600D20521 /* ZZTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E2D8C0920DF7D6600D20521 /* ZZTests.m */; };
 		0E2D8C1520DF7D6600D20521 /* ZZUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E2D8C1420DF7D6600D20521 /* ZZUITests.m */; };
 		0E2D8C2520DF7F5300D20521 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E2D8C2420DF7F5300D20521 /* FirstViewController.m */; };
+		0E2D8C2820DFA7F800D20521 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E2D8C2720DFA7F800D20521 /* SecondViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		0E2D8C1620DF7D6600D20521 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0E2D8C2320DF7F5300D20521 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
 		0E2D8C2420DF7F5300D20521 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		0E2D8C2620DFA7F800D20521 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		0E2D8C2720DFA7F800D20521 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +144,8 @@
 			children = (
 				0E2D8C2320DF7F5300D20521 /* FirstViewController.h */,
 				0E2D8C2420DF7F5300D20521 /* FirstViewController.m */,
+				0E2D8C2620DFA7F800D20521 /* SecondViewController.h */,
+				0E2D8C2720DFA7F800D20521 /* SecondViewController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -275,6 +280,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E2D8C2820DFA7F800D20521 /* SecondViewController.m in Sources */,
 				0E2D8BF520DF7D6400D20521 /* ViewController.m in Sources */,
 				0E2D8C0020DF7D6600D20521 /* main.m in Sources */,
 				0E2D8BF220DF7D6400D20521 /* AppDelegate.m in Sources */,
